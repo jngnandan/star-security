@@ -1,0 +1,42 @@
+.home-image{
+    background-image: url('/src/Images/security-guard.jpeg');
+    height: 400px;
+    background-size: cover;
+}
+
+.bg-image {
+    background-image: url('/src/Images/security-services.jpeg');
+    height: 250px;
+    background-size: cover;
+}
+
+.bg-image2 {
+    background-image: url('/src/Images/mobile-patrol.jpeg');
+    height: 250px;
+    background-size: cover;
+}
+
+.bg-image3 {
+    background-image: url('/src/Images/cctv.jpeg');
+    height: 250px;
+    background-size: cover;
+}
+
+.bg-image4 {
+    background-image: url('/src/Images/corporate-security.jpeg');
+    height: 250px;
+    background-size: cover;
+}
+
+.bg-whySection{
+    background-color: lightgray;
+    height: 500;
+}
+
+.address-image{
+    background-image: url('/src/Images/address.jpeg');
+    height: 250px;
+    background-size: cover;
+}
+
+
